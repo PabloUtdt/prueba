@@ -11,7 +11,7 @@
 </head>
 <body>
   <div id="t-c">
-    <h1 id="title">Qr Generator</h1>
+    <h1 id="title">Qr Generator PRUEBA</h1>
     <img src="image/hackerman.jpg" alt="">
   </div>
   <form method="post" action="index.php">
