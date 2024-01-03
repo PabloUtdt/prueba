@@ -1,0 +1,44 @@
+*{
+  font-family: monospace;
+}
+#text{
+  height: 30px;
+  width: 400px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 0 5px;
+}
+#generar{
+  padding: 8px 20px;
+  border: 1px solid #dddd;
+  border-radius: 10px;
+  background: #0daacbdd;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+}
+#container{
+  display: flex;
+  flex-direction: column;
+}
+#btn-download{
+  padding: 8px 20px;
+  border: 1px solid #dddd;
+  border-radius: 10px;
+  background: #0dcb11dd;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+  width: 240px;
+  text-align: center;
+  text-decoration: none;
+}
+#t-c{
+  display: flex;
+  align-items: center;
+  margin: 20px;
+}
+#t-c>img{
+  width: 200px;
+  margin-left: 30px;
+}
